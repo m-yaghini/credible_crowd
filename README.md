@@ -2,7 +2,7 @@
 ```
 |
 |- experiment_1-|
-|				|- analysis
+|.              |- analysis
 |- report
 ```
 
