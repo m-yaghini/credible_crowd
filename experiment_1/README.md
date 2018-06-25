@@ -1,7 +1,9 @@
 # CredibleCrowd: Experiment 1
+```
 |
 |- data
 |- analysis
+```
 
 This is the repository for the CredibleCrowd Experiment 1 web page. 
 

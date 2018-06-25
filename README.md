@@ -1,8 +1,10 @@
 # CredibleCrowd
+```
 |
 |- experiment_1-|
 |				|- analysis
 |- report
+```
 
 This is the repository for the CredibleCrowd project. 
 
